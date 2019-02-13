@@ -1,0 +1,16 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/FDRSE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FDRSE
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/Transmisia.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Transmisia
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/CB4CLE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CB4CLE
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/FDCE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FDCE
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/H1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity H1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/H2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity H2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sources_1/new/x74_194.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity x74_194
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mihai/Desktop/CN2 - Laboratore/Asynchronous serial communication/protocol_transmition.srcs/sim_1/new/TEST.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TEST

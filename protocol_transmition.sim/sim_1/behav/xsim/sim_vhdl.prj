@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../protocol_transmition.srcs/sources_1/new/FDRSE.vhd" \
+"../../../../protocol_transmition.srcs/sources_1/new/Transmisia.vhd" \
+
+vhdl2008 xil_defaultlib  \
+"../../../../protocol_transmition.srcs/sources_1/new/CB4CLE.vhd" \
+"../../../../protocol_transmition.srcs/sources_1/new/FDCE.vhd" \
+"../../../../protocol_transmition.srcs/sources_1/new/H1.vhd" \
+"../../../../protocol_transmition.srcs/sources_1/new/H2.vhd" \
+"../../../../protocol_transmition.srcs/sources_1/new/x74_194.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../protocol_transmition.srcs/sim_1/new/sim.vhd" \
+
+# Do not sort compile order
+nosort
